@@ -1,11 +1,11 @@
-# Delivery Manifest — Final Release v1.2 Public Demo
+# Delivery Manifest — v1.3 Public Demo / Starter
 
 ## Release identity
 
 - Product: SayElf Poetry Immersion Engine
-- Release: Final Release v1.2 Contact — public-demo adaptation
+- Release: v1.3 public-demo and Starter adaptation
 - GitHub repository: `chuanxituzhu-lab/sayelf-poetry-immersion-engine`
-- Commit message: `Initial release: SayElf Poetry Immersion Engine`
+- Commit message: `Add v1.3 public Starter surface`
 - Data boundary: only files listed as `Public` below are intended for GitHub.
 
 ## Included files
@@ -16,25 +16,25 @@
 | `SKILL.md` | Public | Core workflow and evidence labels |
 | `LICENSE` | Public | MIT license inherited from the repository |
 | `01-core-product/webui/poetry-immersion-engine-v1.2-public-demo.html` | Public | Self-contained WebUI demo |
+| `01-core-product/webui/poetry-immersion-engine-v1.3-public-intro.html` | Public | v1.3 overview without the complete Skill ZIP |
 | `docs/C-E-S-evidence-chain.md` | Public | Evidence-chain guidance |
 | `examples/README.md` | Public | Local demo usage notes |
 | `assets/README.md` | Public | Asset and contact boundary |
 | `03-sales-materials/` | Public | Non-sensitive public sales copy |
 | `02-commercial-packages/` | Public placeholder | Package boundary only; no paid package contents |
 | `04-ops-extension-archive/` | Public boundary note | Deferred CRM/ROI/A-B scope note |
+| `.github/ISSUE_TEMPLATE/commercial-inquiry.md` | Public | Purchase and customization entry point |
 
 ## Excluded from public release
 
 - Real WeChat QR image and personal contact identifiers.
 - Credentials, API keys, tokens, cookies, or private URLs.
-- Complete Starter/Creator/Pro commercial packages.
+- Complete v1.3 Overall Skill, Starter/Creator/Pro commercial packages.
 - Full poetry datasets, private customer material, and unpublished sales records.
 - Deferred CRM, ROI, A/B-testing, and operations implementations.
 
 ## Verification record
 
-- Source artifact located locally: `poetry-immersion-engine-final-release-v1.2-contact.html`.
-- Public transformation: personal QR image replaced with a neutral public-demo contact placeholder.
-- HTML remains single-file and contains no required external assets.
-- Final staged tree reviewed for contact, secret, and private-data markers before push.
-- Public HTML SHA-256: `52EE2CC660C5F783564F1B6749D90B8A763FF5117F84625376A9F475F195E55F`.
+- Public v1.3 page contains no complete Skill ZIP download button.
+- The public tree contains no private QR image, credentials, private URL, or complete commercial package.
+- The public tree is reviewed for contact, secret, and private-data markers before push.

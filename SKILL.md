@@ -1,8 +1,8 @@
-# SayElf Poetry Immersion Engine Skill
+# SayElf Poetry Immersion Engine · Public Starter Skill v1.3
 
 ## Purpose
 
-Transform one classical Chinese poem into a compact, evidence-aware content delivery pack for human review and creative production.
+Transform one classical Chinese poem into a compact, evidence-aware content delivery pack for human review and creative production. This public Starter is intentionally abbreviated; the complete v1.3 Overall Skill and Creator/Pro packages are commercial deliverables outside this repository.
 
 ## Core sequence
 
@@ -19,9 +19,19 @@ Transform one classical Chinese poem into a compact, evidence-aware content deli
 8. Adapt the approved material to the selected platform.
 9. Run the delivery QA checklist.
 
+## Public v1.3 additions
+
+- Use the “境界” tradition associated with *Renjian Cihua* as an aesthetic check; it does not replace C/E/S evidence.
+- Give every image keyframe a stable `K01…Kn` ID and every video shot a matching `S01…Sn` ID.
+- Enforce `video storyboard count = key-frame count`.
+- Keep people, objects, space, light, and style in a continuity lock.
+- Keep PPT-ready output and platform adaptation downstream of the verified evidence chain.
+
 ## Public-release boundary
 
 The public demo is a local, single-file artifact. It must not contain private contact images, credentials, unpublished datasets, customer information, or complete commercial package contents. Commercial extensions remain placeholders in this repository.
+
+Do not add CRM, ROI, A/B testing, automated publishing, or performance claims to the public Starter.
 
 ## Evidence labels
 
