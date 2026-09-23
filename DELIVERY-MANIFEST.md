@@ -1,11 +1,12 @@
-# Delivery Manifest — v1.3 Public Demo / Starter
+# Delivery Manifest — v1.3.0 Public Demo / Starter
 
 ## Release identity
 
 - Product: SayElf Poetry Immersion Engine
-- Release: v1.3 public-demo and Starter adaptation
+- Release: v1.3.0 public-demo and Starter adaptation
 - GitHub repository: `chuanxituzhu-lab/sayelf-poetry-immersion-engine`
-- Commit message: `Add v1.3 public Starter surface`
+- Tag: `v1.3.0`
+- Commit message: `release: publish public demo v1.3.0`
 - Data boundary: only files listed as `Public` below are intended for GitHub.
 
 ## Included files
@@ -15,7 +16,7 @@
 | `README.md` | Public | Public overview and usage path |
 | `SKILL.md` | Public | Core workflow and evidence labels |
 | `LICENSE` | Public | MIT license inherited from the repository |
-| `01-core-product/webui/poetry-immersion-engine-v1.2-public-demo.html` | Public | Self-contained WebUI demo |
+| `01-core-product/webui/poetry-immersion-engine-v1.2-public-demo.html` | Public legacy demo | Self-contained historical WebUI demo |
 | `01-core-product/webui/poetry-immersion-engine-v1.3-public-intro.html` | Public | v1.3 overview without the complete Skill ZIP |
 | `docs/C-E-S-evidence-chain.md` | Public | Evidence-chain guidance |
 | `examples/README.md` | Public | Local demo usage notes |
@@ -36,5 +37,5 @@
 ## Verification record
 
 - Public v1.3 page contains no complete Skill ZIP download button.
-- The public tree contains no private QR image, credentials, private URL, or complete commercial package.
+- The public tree contains no PPTX, `PPT结构.md`, ZIP, private QR image, credentials, private URL, or complete commercial package.
 - The public tree is reviewed for contact, secret, and private-data markers before push.

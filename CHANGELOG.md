@@ -1,0 +1,10 @@
+# Changelog
+
+## v1.3.0 — 2026-09-23
+
+- Published the public v1.3 introduction page as the current Demo / Starter entry point.
+- Versioned the public Starter Skill and release boundary as `v1.3.0`.
+- Kept the v1.2 single-file Demo as a clearly marked legacy free demo.
+- Added the public purchase / customization inquiry path through GitHub Issues.
+- Kept the complete v1.3 HTML, PPTX, `PPT结构.md`, ZIP, personal QR image, and Creator/Pro content outside the public repository.
+- Kept CRM, ROI, and A/B testing out of scope.

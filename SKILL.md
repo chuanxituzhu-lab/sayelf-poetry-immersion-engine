@@ -1,8 +1,8 @@
-# SayElf Poetry Immersion Engine · Public Starter Skill v1.3
+# SayElf Poetry Immersion Engine · Public Starter Skill v1.3.0
 
 ## Purpose
 
-Transform one classical Chinese poem into a compact, evidence-aware content delivery pack for human review and creative production. This public Starter is intentionally abbreviated; the complete v1.3 Overall Skill and Creator/Pro packages are commercial deliverables outside this repository.
+Transform one classical Chinese poem into a compact, evidence-aware content delivery pack for human review and creative production. This public Starter v1.3.0 is intentionally abbreviated; the complete v1.3 Overall Skill and Creator/Pro packages are commercial deliverables outside this repository.
 
 ## Core sequence
 

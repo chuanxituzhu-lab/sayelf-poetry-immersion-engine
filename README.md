@@ -1,12 +1,14 @@
-# SayElf Poetry Immersion Engine
+# SayElf Poetry Immersion Engine · v1.3.0 Public Demo / Starter
 
-Poetry Immersion Engine is a free public Demo / Starter for turning classical Chinese poetry into an evidence-aware content pack: story context, C/E/S evidence, image prompts, video storyboards, continuity locks, and platform adaptations.
+Poetry Immersion Engine v1.3.0 is a free public Demo / Starter for turning classical Chinese poetry into an evidence-aware content pack: story context, C/E/S evidence, image prompts, video storyboards, continuity locks, and platform adaptations.
 
 The repository is the public product surface. The complete v1.3 Overall Skill, Creator package, Pro package, private assets, and customer-specific materials are not included here.
 
-## v1.3 public introduction
+## Current public release: v1.3.0
 
-Open the [v1.3 public introduction page](01-core-product/webui/poetry-immersion-engine-v1.3-public-intro.html) locally. It explains the expanded workflow without embedding the complete commercial Skill ZIP.
+Open the [v1.3 public introduction page](01-core-product/webui/poetry-immersion-engine-v1.3-public-intro.html) locally. It is the current public entry point and explains the expanded workflow without embedding the complete commercial Skill ZIP.
+
+The repository is tagged [`v1.3.0`](https://github.com/chuanxituzhu-lab/sayelf-poetry-immersion-engine/releases/tag/v1.3.0). The v1.2 single-file demo remains available as a legacy free demo for continuity; it is not the v1.3 commercial delivery package.
 
 ## Public demo
 
@@ -21,11 +23,12 @@ The demo keeps the core workflow intentionally small:
 
 ## What is public
 
-- v1.2 single-file demo;
-- v1.3 public introduction page;
-- trimmed public Starter Skill;
+- v1.3.0 public introduction page;
+- trimmed v1.3.0 public Starter Skill;
 - C/E/S evidence-chain guidance;
 - public sales description, FAQ, and package boundary notes.
+
+The legacy v1.2 single-file demo is also retained as a free historical demo.
 
 ## What is not public
 
@@ -48,7 +51,7 @@ The demo keeps the core workflow intentionally small:
 
 This public repository intentionally does not include a personal WeChat QR code or private contact image. For commercial package access, licensing, or customization, [open a commercial inquiry](https://github.com/chuanxituzhu-lab/sayelf-poetry-immersion-engine/issues/new?template=commercial-inquiry.md).
 
-Commercial delivery is handled separately from this public Starter repository.
+Commercial delivery is handled separately from this public Starter repository. The complete v1.3 HTML, PPTX, `PPT结构.md`, ZIP, and Creator/Pro content remain outside this public repository.
 
 ## License
 
